@@ -1,7 +1,10 @@
 # 📌 Social Media Automation Scripts
 
 ## 🚀 Overview
-This repository contains various automation scripts for managing social media interactions across **Instagram, Facebook, X (Twitter), TikTok, LinkedIn, and other platforms**. These scripts perform tasks such as **message deletion, automated replies, data extraction, and UI interactions**.
+A powerful collection of automation scripts for managing social media activities by handling different actions. This repository contains various automation scripts for managing social media interactions across **Instagram, Facebook, X (Twitter), TikTok, LinkedIn, and other platforms**. These scripts perform tasks such as **message deletion, automated replies, data extraction, and UI interactions**.
+
+✅ **No external dependencies** – just run via the browser console!  
+✅ **Easily customizable** – modify selectors and settings to match UI changes. 
 
 ---
 
